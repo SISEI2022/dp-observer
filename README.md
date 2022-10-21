@@ -30,8 +30,7 @@ Solución, con el patrón Observer:
 
 ![image](https://user-images.githubusercontent.com/55771796/174159309-57936642-668f-4cba-9b1d-970995585e32.png)
 
-### Ejecucion
+### Ejecución
 
-```
-gradle run
-```
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
